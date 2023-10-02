@@ -1,0 +1,11 @@
+exercise1 = list(range(0,10))
+exercise2 = list(range(-10,0))
+exercise3 = list(range(0,22,2))
+exercise4 = list(range(-19,0,2))
+exercise5 = list(range(0,55,5))
+
+print(exercise1)
+print(exercise2)
+print(exercise3)
+print(exercise4)
+print(exercise5)
