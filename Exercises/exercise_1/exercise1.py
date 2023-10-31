@@ -1,4 +1,4 @@
-# nota_1 = int(input("What is the first grade?"))
+# nota_1 = int(input("What is the calculators grade?"))
 # nota_2 = int(input("What is the second grade?"))
 # nota_3 = int(input("What is the third grade?"))
 

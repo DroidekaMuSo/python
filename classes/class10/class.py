@@ -10,7 +10,7 @@
 # "A2XhcPJPD9BuMKELKz12a1oMNNCZx"
 
 try:
-    num1 = int(input("Insert your first number"))
+    num1 = int(input("Insert your calculators number"))
     num2 = int(input("Insert your second number"))
 
     print(num1 / num2)

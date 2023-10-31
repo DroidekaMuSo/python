@@ -5,7 +5,7 @@ print(string.upper())
 
 print(string.lower())
 
-print(string.capitalize())  # The first word is capitalized
+print(string.capitalize())  # The calculators word is capitalized
 
 print(string.title())  # Starts each word with capital letter
 
